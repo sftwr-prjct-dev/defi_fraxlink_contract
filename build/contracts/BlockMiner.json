@@ -17,8 +17,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -38,8 +37,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     }
   ],
   "metadata": "{\"compiler\":{\"version\":\"0.6.12+commit.27d51765\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"blockTime\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"blocksMined\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"mine\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/abdulhafiz/Documents/projects/xeb/defi_fraxlink_contract/contracts/Utils/BlockMiner.sol\":\"BlockMiner\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/abdulhafiz/Documents/projects/xeb/defi_fraxlink_contract/contracts/Utils/BlockMiner.sol\":{\"keccak256\":\"0x04a17c107139963d5cd677338aade7782f2d7a822964e59b60e2b96276afb5f7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://d78e394f8305cd41cde7423d48cf72ea62c1ca8d993792d80c5064e146be6952\",\"dweb:/ipfs/QmPssS7z5QbZ4EdLqCDrEGsU5ozY9GodYJXtRQnwE65G4v\"]}},\"version\":1}",
@@ -812,17 +810,9 @@
     "name": "solc",
     "version": "0.6.12+commit.27d51765.Emscripten.clang"
   },
-  "networks": {
-    "1615130251676": {
-      "events": {},
-      "links": {},
-      "address": "0xFBd474443c7e40c95B98659dCaB2ebfF8f338e56",
-      "transactionHash": "0x99ce63a974cb56c431f55092bfa654b7eac0929235eba5222e0baaa888d2046f"
-    }
-  },
+  "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2021-03-07T17:07:43.023Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-03-15T07:52:06.700Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},

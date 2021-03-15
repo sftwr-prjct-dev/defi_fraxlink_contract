@@ -122,12 +122,12 @@ contract XEBECStablecoin is ERC20Custom, AccessControl {
     }
 
     // Returns X XEB = 1000 satoshis
-    function xeb_price() public view returns (uint256) {
+    function xeb_price() public pure returns (uint256) {
         return 1000;
     }
 
     // Returns X XESH = 1 USD
-    function xesh_price()  public view returns (uint256) {
+    function xesh_price()  public pure returns (uint256) {
         return 1000;
     }
 

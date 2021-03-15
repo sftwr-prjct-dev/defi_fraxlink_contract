@@ -235,7 +235,7 @@
         "id": 1114,
         "nodeType": "ImportDirective",
         "scope": 1191,
-        "sourceUnit": 4966,
+        "sourceUnit": 4222,
         "src": "96:30:3",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1198,7 +1198,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 4966,
+          "SourceUnit": 4222,
           "absolutePath": "/Users/abdulhafiz/Documents/projects/xeb/defi_fraxlink_contract/contracts/Math/SafeMath.sol",
           "file": "../Math/SafeMath.sol",
           "scope": 1191,
@@ -2212,7 +2212,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2021-03-07T17:07:32.882Z",
+  "updatedAt": "2021-03-15T14:40:12.532Z",
   "devdoc": {
     "details": "Interface of the ERC20 standard as defined in the EIP. Does not include the optional functions; to access them see {ERC20Detailed}.",
     "events": {

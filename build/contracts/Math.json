@@ -3487,17 +3487,9 @@
     "name": "solc",
     "version": "0.6.12+commit.27d51765.Emscripten.clang"
   },
-  "networks": {
-    "1615130251676": {
-      "events": {},
-      "links": {},
-      "address": "0x094518b5958cA707ba9E2283E5A1Be44fa620fD9",
-      "transactionHash": "0xd344f3d194bebd3342059961767573a5cdf4d5f88de6cb4aee18443c67c2bda6"
-    }
-  },
+  "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2021-03-07T17:07:43.039Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-03-15T07:52:06.600Z",
   "devdoc": {
     "details": "Standard math utilities missing in the Solidity language.",
     "kind": "dev",
