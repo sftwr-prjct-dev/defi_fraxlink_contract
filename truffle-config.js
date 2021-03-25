@@ -21,20 +21,20 @@ module.exports = {
 			provider: () => 
 				new HDprovider(
 					{ 
-						mnemonic: {phrase: 'boil argue space actor quick route empty soon moon plug proud spread'}, 
-						providerOrUrl: 'wss://eth-goerli.ws.alchemyapi.io/v2/9GJ40fZ1PGwqID6jUHOyzdyEsPLqE7Kn',
+						mnemonic: {phrase: 'mnemonic'}, 
+						providerOrUrl: 'https://kovan.infura.io/v3/<infura projectId>',
 						numberOfAddresses: 10
 					}
 				),
 			network_id: "5",
-			skipDryRun: true
+			// skipDryRun: true
 		},
 		kovan: {
 			provider: () => 
 				new HDprovider(
 					{ 
-						mnemonic: {phrase: 'boil argue space actor quick route empty soon moon plug proud spread'}, 
-						providerOrUrl: 'https://kovan.infura.io/v3/7cc9144169d6403d8007b06070f73c76',
+						mnemonic: {phrase: 'mnemonic'}, 
+						providerOrUrl: 'https://kovan.infura.io/v3/<infura projectId>',
 						numberOfAddresses: 10
 					}
 				),
